@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['085725924473'] // Put your number here //owner eval
-global.kontak = ['085725924473','0'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/Kl5Gqu4Obl60lR1wVCyoiB', ''] // ganti jadi group lu
+global.owner = ['082125968810'] // Put your number here //owner eval
+global.kontak = ['082125968810','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['085725924473'] // Premium user has unlimited limit
+global.prems = ['082125968810'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -45,22 +45,22 @@ zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
-namagithub = 'GAK ADA :)'
-kasihcaption = `Nih kak`
-namakontak1 = 'KAKA BOT'
-namakontak2 = 'KAKA BOT'
+namagithub = 'github.com/Afgan2222'
+kasihcaption = `By Afgan`
+namakontak1 = 'GannReall💀💀'
+namakontak2 = 'GannReall💀💀'
 
-//kasihcaption = `Nih Kak`
+//kasihcaption = `By Afgan`
 
 // Sticker WM
-global.packname = 'By KAKA BOT' // ganti aja
-global.author = 'KAKA BOT' // ganti aja
+global.packname = 'By Afgan' // ganti aja
+global.author = '' // ganti aja
 
 //yyy
-bc = 'AlyaaXzy' //KAKA BOT Broadcast
-footer = '\n©KAKA BOT'
-namabot = 'KAKA BOT'
-namalu = 'KAKA BOT'
+bc = 'GannReall' //KAKA BOT Broadcast
+footer = '\n© Bot WhatsApp MD | © 2022-2023 | Created By Afgan'
+namabot = 'GannReall-MD'
+namalu = 'GannReall💀💀'
 
 
 // 
